@@ -1,5 +1,7 @@
 ### :octocat: Git Your Practice On!
 
+Practice edit.
+
 * 19 Git Tips for Everyday use [http://www.alexkras.com/19-git-tips-for-everyday-use](http://www.alexkras.com/19-git-tips-for-everyday-use)
 * Git Hot Tips by Wes Bos [https://wesbos.com/git-hot-tips/](https://wesbos.com/git-hot-tips/)
 * Git Reference [https://help.github.com/categories/github-pages-basics/](https://help.github.com/categories/github-pages-basics/)
