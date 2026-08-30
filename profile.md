@@ -1,5 +1,5 @@
 Artificial Intelligence Corp.
-User Profile
+User Profile Card
 
 
 
